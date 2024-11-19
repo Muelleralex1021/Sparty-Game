@@ -7,6 +7,7 @@
 #include "AndGate.hpp"
 #include "SpartyBoots.hpp"
 
+
 /// Diameter to draw the pin in pixels
 const int PinSize = 10;
 

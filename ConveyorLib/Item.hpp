@@ -1,6 +1,6 @@
 /**
  * @file Item.hpp
- * @author tiend
+ * @author Alex Mueller
  *
  *
  */

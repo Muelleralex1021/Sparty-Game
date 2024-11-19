@@ -1,6 +1,6 @@
 /**
  * @file Sparty.hpp
- * @author trevo
+ * @author Alex Mueller
  *
  *
  */

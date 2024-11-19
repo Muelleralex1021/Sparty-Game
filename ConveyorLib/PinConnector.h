@@ -1,6 +1,6 @@
 /**
  * @file PinConnector.h
- * @author tiend
+ * @author Alex Mueller
  *
  *
  */

@@ -1,7 +1,7 @@
 /**
  * Conveyor item class declaration
  * @file Conveyor.hpp
- * @author Jack Bruienne
+ * @author Alex Mueller
  */
 
 #ifndef CONVEYORLIB_CONVEYOR_HPP

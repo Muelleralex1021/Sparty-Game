@@ -1,6 +1,6 @@
 /**
  * @file LogicItem.cpp
- * @author bdean
+ * @author Alex Mueller
  */
 #include "pch.h"
 #include "LogicItem.hpp"

@@ -1,6 +1,6 @@
 /**
  * @file LastProductVisitor.hpp
- * @author trevo
+ * @author Alex Mueller
  *
  *
  */

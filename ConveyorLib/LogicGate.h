@@ -1,6 +1,6 @@
 /**
  * @file LogicGate.h
- * @author tiend
+ * @author Alex Mueller
  *
  *
  */

@@ -1,6 +1,6 @@
 /**
  * @file NotGate.cpp
- * @author bdean
+ * @author Alex Mueller
  */
 
 #include "pch.h"

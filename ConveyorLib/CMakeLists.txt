@@ -12,8 +12,6 @@ set(SOURCE_FILES
         Conveyor.cpp
         Conveyor.hpp
         ids.hpp
-        Gate.cpp
-        Gate.h
         OrGate.cpp
         OrGate.hpp
         LoadLevel.cpp

@@ -1,6 +1,6 @@
 /**
  * @file Item.cpp
- * @author tiend
+ * @author Alex Mueller
  */
 #include "pch.h"
 #include "Item.hpp"

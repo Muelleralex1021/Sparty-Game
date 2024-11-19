@@ -1,6 +1,6 @@
 /**
  * @file Sensor.cpp
- * @author trevo
+ * @author Alex Mueller
  */
 
 #include "pch.h"

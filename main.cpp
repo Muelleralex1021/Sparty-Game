@@ -1,6 +1,6 @@
 /**
  * @file main.cpp
- * @author Duc Vu
+ * @author Alex Mueller
  */
 
 #include "pch.h"

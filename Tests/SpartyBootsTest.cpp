@@ -1,6 +1,6 @@
 /**
  * @file SpartyBootsTest.cpp
- * @author Trevor Stevens
+ * @author Alex Mueller
  */
 
 #include <pch.h>

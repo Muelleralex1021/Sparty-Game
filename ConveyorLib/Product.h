@@ -1,6 +1,6 @@
 /**
  * @file Product.h
- * @author trevo
+ * @author Alex Mueller
  *
  *
  */

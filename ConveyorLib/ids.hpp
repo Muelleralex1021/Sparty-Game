@@ -1,6 +1,6 @@
 /**
  * @file ids.hpp
- * @author Trevor Stevens
+ * @author Alex Mueller
  *
  *ID values for our program
  */

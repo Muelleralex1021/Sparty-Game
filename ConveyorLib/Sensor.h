@@ -1,6 +1,6 @@
 /**
  * @file Sensor.h
- * @author trevo
+ * @author Alex Mueller
  *
  *
  */

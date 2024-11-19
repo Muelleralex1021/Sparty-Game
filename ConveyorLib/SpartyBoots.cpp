@@ -1,6 +1,6 @@
 /**
  * @file SpartyBoots.cpp
- * @author tiend
+ * @author Alex Mueller
  */
 #include "pch.h"
 #include "SpartyBoots.hpp"

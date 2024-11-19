@@ -1,6 +1,6 @@
 /**
  * @file ProductUpdateVisitor.hpp
- * @author trevo
+ * @author Alex Mueller
  *
  *
  */

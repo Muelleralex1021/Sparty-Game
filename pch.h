@@ -1,6 +1,6 @@
 /**
  * @file pch.h
- * @author tiend
+ * @author Alex Mueller
  *
  *
  */

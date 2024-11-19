@@ -1,6 +1,6 @@
 /**
  * @file DFlipFlop.h
- * @author bdean
+ * @author Alex Mueller
  *
  *
  */

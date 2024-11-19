@@ -1,6 +1,6 @@
 /**
  * @file NotGate.hpp
- * @author bdean
+ * @author Alex Mueller
  *
  *
  */

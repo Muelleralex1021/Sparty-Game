@@ -1,6 +1,6 @@
 /**
  * @file LastProductVisitor.cpp
- * @author trevo
+ * @author Alex Mueller
  */
 
 #include "pch.h"

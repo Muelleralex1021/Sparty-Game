@@ -1,7 +1,7 @@
 /**
  * Conveyor class definition
  * @file Conveyor.cpp
- * @author Jack Bruienne
+ * @author Alex Mueller
  */
 
 #include "pch.h"

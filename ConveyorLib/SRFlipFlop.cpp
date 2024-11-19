@@ -1,6 +1,6 @@
 /**
  * @file SRFlipFlop.cpp
- * @author bdean
+ * @author Alex Mueller
  */
 
 #include "pch.h"

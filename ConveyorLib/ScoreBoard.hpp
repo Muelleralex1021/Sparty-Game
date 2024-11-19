@@ -1,6 +1,6 @@
 /**
  * @file ScoreBoard.hpp
- * @author bdean
+ * @author Alex Mueller
  *
  *
  */

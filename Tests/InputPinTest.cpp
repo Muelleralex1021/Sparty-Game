@@ -1,6 +1,6 @@
 /**
  * @file InputPinTest.cpp
- * @author tiend
+ * @author Alex Mueller
  */
 
 

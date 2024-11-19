@@ -1,6 +1,6 @@
 /**
  * @file InputPin.h
- * @author tiend
+ * @author Alex Mueller
  *
  *
  */

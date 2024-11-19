@@ -1,6 +1,6 @@
 /**
  * @file LogicItem.hpp
- * @author bdean
+ * @author Alex Mueller
  *
  *
  */

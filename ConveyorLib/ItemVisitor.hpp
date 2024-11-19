@@ -1,6 +1,6 @@
 /**
  * @file ItemVisitor.hpp
- * @author trevo
+ * @author Alex Mueller
  *
  *
  */

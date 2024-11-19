@@ -1,6 +1,6 @@
 /**
  * @file OrGate.cpp
- * @author bdean
+ * @author Alex Mueller
  */
 
 #include "pch.h"

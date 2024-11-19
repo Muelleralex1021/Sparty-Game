@@ -1,6 +1,6 @@
 /**
  * @file MainFrame.hpp
- * @author tiend
+ * @author Alex Mueller
  *
  *
  */

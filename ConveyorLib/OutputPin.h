@@ -1,6 +1,6 @@
 /**
  * @file OutputPin.h
- * @author tiend
+ * @author Alex Mueller
  *
  *
  */

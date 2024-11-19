@@ -1,6 +1,6 @@
 /**
  * @file OrGate.hpp
- * @author bdean
+ * @author Alex Mueller
  *
  *
  */

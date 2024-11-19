@@ -1,6 +1,6 @@
 /**
  * @file IDraggable.h
- * @author bdean
+ * @author Alex Mueller
  *
  *
  */

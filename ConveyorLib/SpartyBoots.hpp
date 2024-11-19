@@ -1,6 +1,6 @@
 /**
  * @file SpartyBoots.hpp
- * @author tiend
+ * @author Alex Mueller
  *
  *
  */

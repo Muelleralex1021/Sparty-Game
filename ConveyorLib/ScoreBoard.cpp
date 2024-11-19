@@ -1,6 +1,6 @@
 /**
  * @file ScoreBoard.cpp
- * @author bdean
+ * @author Alex Mueller
  */
 #include "pch.h"
 #include "ScoreBoard.hpp"

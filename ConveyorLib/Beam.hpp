@@ -1,6 +1,6 @@
 /**
  * @file Beam.hpp
- * @author trevo
+ * @author Alex Mueller
  *
  *
  */

@@ -1,6 +1,6 @@
 /**
  * @file InputPin.cpp
- * @author tiend
+ * @author Alex Mueller
  */
 
 #include "pch.h"

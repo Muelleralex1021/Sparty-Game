@@ -1,6 +1,6 @@
 /**
  * @file AndGate.hpp
- * @author bdean
+ * @author Alex Mueller
  *
  *
  */

@@ -1,6 +1,6 @@
 /**
  * @file SRFlipFlop.h
- * @author bdean
+ * @author Alex Mueller
  *
  *
  */
